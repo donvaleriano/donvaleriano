@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I’m Don Valeriano
+**Cybersecurity Professional | SOC & Pentesting | Offensive + Defensive Security | Cloud & Governance**
 
-<!--
-**donvaleriano/donvaleriano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I build **hands-on cybersecurity labs, tools, and write-ups** that demonstrate professional expertise in security operations, penetration testing, cloud security, and threat detection.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛡️ Certifications & Roadmap
+| Certification | Status |
+|---------------|--------|
+| CompTIA Security+ | ✅ Completed |
+| CEH (ANSI) | ✅ Completed |
+| Junior Penetration Tester (JPT) | ✅ Completed |
+| CompTIA CySA+ | ✅ Completed |
+| Cisco CyberOps | ✅ Completed |
+| OSCP | 🔜 2027 |
+| Blue Team Level 1 (BTL1) | 🔜 2027 |
+|
